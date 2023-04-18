@@ -1,3 +1,2 @@
 1,2,3
 make stage
-make revert stage_1
